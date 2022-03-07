@@ -8,5 +8,5 @@ Material realizado en el curso "Consumo de APIS REST con Angular" de [Platzi](ht
 
 ## Certificación 🎓
 
-![Certificación](https://github.com/JuamBer/Platzi-CursoConsumoAPIsAngular/blob/master/img-licencia/diploma-angular-componentes.jpg?raw=true)
+![Certificación](https://github.com/JuamBer/Platzi-CursoConsumoAPIsAngular/blob/master/img-licencia/diploma-angular-apis.jpg?raw=true)
 
